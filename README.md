@@ -1,5 +1,7 @@
 # Neural Network: Dense Layer (Chisel)
 
+Hardware Implementation of Dense Layer of Neural Network using Chisel 
+
 - Minimal fixed-point dense (fully connected) layer in Chisel.
 - Building block for feed-forward neural networks (MLPs).
 - Supports parameterized size, fixed-point scaling, and common activations.
